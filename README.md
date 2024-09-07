@@ -26,8 +26,7 @@ The Quiz System is a Java-based application that allows users to take quizzes on
 
 ## File Structure
 
-- `src/testtype/`
-  - `os.txt` (or other topic files) - Contains questions for the quiz. Each line should be in the format:
+- `src/testtype/`os.txt` (or other topic files) - Contains questions for the quiz. Each line should be in the format:
     ```
     question;option1;option2;option3;option4;correctOptionIndex
     ```
