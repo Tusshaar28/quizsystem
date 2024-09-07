@@ -1,0 +1,20 @@
+Que1: What is a database?;A collection of related data;A program for data analysis;A hardware device;A type of network;0
+Que2: What is SQL?;Structured Query Language;Simple Query Language;Structured Quick Language;Simple Quick Language;0
+Que3: What is a primary key?;A unique identifier for a record;A foreign key;An index;A data type;0
+Que4: What is normalization in a database?;Process of organizing data to minimize redundancy;Process of indexing data;Process of creating backups;Process of querying data;0
+Que5: What is a foreign key?;A key that links two tables;A key that uniquely identifies a record;A key used for indexing;A key used for encryption;0
+Que6: What is a database schema?;A blueprint of the database structure;A set of database records;A type of query;A data type;0
+Que7: What is a transaction in a database?;A sequence of operations performed as a single unit;A single query operation;A type of data retrieval;A database backup;0
+Que8: What is ACID in database systems?;Properties ensuring reliable transaction processing;A type of data encryption;A database management technique;A query language;0
+Que9: What is indexing in a database?;A technique to improve query performance;A technique to encrypt data;A technique to back up data;A technique to normalize data;0
+Que10: What is a view in a database?;A virtual table based on the result of a query;A physical table;A data type;A backup strategy;0
+Que11: What is a join operation in SQL?;Combining rows from two or more tables;Deleting rows from a table;Updating rows in a table;Inserting rows into a table;0
+Que12: What is a stored procedure?;A precompiled set of SQL statements;A type of database backup;A type of database index;A type of query;0
+Que13: What is a data warehouse?;A large store of historical data for analysis;A store of current transaction data;A type of database management system;A type of data encryption;0
+Que14: What is a trigger in a database?;A procedure that automatically executes in response to certain events;A type of database index;A type of data encryption;A type of query;0
+Que15: What is a cursor in SQL?;A database object used to retrieve and manipulate data row-by-row;A type of data encryption;A type of database schema;A type of database backup;0
+Que16: What is a subquery?;A query nested inside another query;A query that updates data;A query that deletes data;A query that creates tables;0
+Que17: What is data integrity?;The accuracy and consistency of data;The speed of data retrieval;The size of data storage;The ease of data entry;0
+Que18: What is a relational database?;A database that stores data in tables with relationships;A database that stores data in files;A database that stores data in key-value pairs;A database that stores data in documents;0
+Que19: What is a database management system (DBMS)?;Software that manages and interacts with databases;Software that manages files;Software that manages hardware;Software that manages user interfaces;0
+Que20: What is denormalization?;The process of introducing redundancy into a database to improve performance;The process of removing redundancy from a database;The process of backing up data;The process of indexing data;0

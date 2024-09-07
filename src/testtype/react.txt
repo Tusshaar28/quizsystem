@@ -1,0 +1,20 @@
+Que1: What is React?;A JavaScript library for building user interfaces;A JavaScript framework for server-side rendering;A CSS library for styling;A database management system;0
+Que2: What is JSX in React?;A syntax extension for JavaScript;A type of CSS;A method for data binding;A component lifecycle method;0
+Que3: What are components in React?;Reusable pieces of UI;Functions for data manipulation;Database queries;Networking tools;0
+Que4: What is the virtual DOM in React?;A lightweight copy of the actual DOM;A type of database;A method for state management;A component lifecycle method;0
+Que5: What is state in React?;An object that determines how that component renders and behaves;A method for managing component hierarchy;A tool for handling user events;A type of lifecycle method;0
+Que6: What is a prop in React?;A mechanism for passing data from parent to child components;A method for updating state;A function for handling events;A type of lifecycle method;0
+Que7: What is the purpose of `componentDidMount()`?;It is called after a component is mounted to the DOM;It is called before a component is mounted to the DOM;It is called when a component is updated;It is called when a component is unmounted;0
+Que8: What is React Router?;A library for handling routing in React applications;A tool for styling React components;A method for managing component state;A function for handling events;0
+Que9: What is Redux?;A state management library for JavaScript applications;A library for styling React components;A tool for routing in React;A method for handling events;0
+Que10: What are hooks in React?;Functions that let you use state and other React features without writing a class;Methods for handling events;Tools for routing;Libraries for styling;0
+Que11: What is the purpose of `useEffect()` hook?;To perform side effects in functional components;To handle user input;To manage component lifecycle;To render elements conditionally;0
+Que12: What is `useState()` hook used for?;To add state to functional components;To handle routing;To manage side effects;To render components;0
+Que13: What is a higher-order component (HOC) in React?;A function that takes a component and returns a new component with additional props;A component that handles user input;A component that manages state;A component that handles routing;0
+Que14: What is a controlled component in React?;A component whose value is controlled by React state;A component that handles its own value internally;A component that uses external libraries;A component that manages routing;0
+Que15: What is `React.createElement()`?;A method for creating React elements;A method for creating DOM elements;A method for managing state;A method for handling events;0
+Que16: What is the purpose of `shouldComponentUpdate()`?;To optimize performance by preventing unnecessary re-renders;To handle user events;To manage state;To handle routing;0
+Que17: What is `React.Fragment`?;A component that lets you group multiple elements without adding extra nodes to the DOM;A method for handling state;A tool for routing;A library for styling;0
+Que18: What is a key in React lists?;A unique identifier for list elements to help React efficiently update and manage elements;A method for managing state;A function for handling events;A tool for routing;0
+Que19: What is `React.StrictMode`?;A tool for highlighting potential problems in an application;A method for optimizing performance;A tool for managing state;A library for styling;0
+Que20: What is `ReactDOM.render()`?;A method for rendering a React component into the DOM;A method for creating React elements;A method for managing state;A method for handling events;0

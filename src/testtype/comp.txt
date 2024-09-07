@@ -1,0 +1,21 @@
+
+Que1: What is the first phase of a compiler?;Lexical Analysis;Syntax Analysis;Semantic Analysis;Code Optimization;0
+Que2: What does a parser do in a compiler?;Analyzes the syntax;Analyzes the semantics;Generates intermediate code;Optimizes code;0
+Que3: Which data structure is used in the syntax analysis phase?;Parse Tree;Symbol Table;Stack;Queue;0
+Que4: What is a token in lexical analysis?;Basic unit of code;Intermediate code;Error report;Optimization technique;0
+Que5: What is the main purpose of semantic analysis?;Check for logical errors;Optimize code;Generate object code;Parse syntax;0
+Que6: What is the role of a linker in compilation?;Combine object files into executable;Parse source code;Optimize code;Translate code into assembly;0
+Que7: Which phase of the compiler performs type checking?;Semantic Analysis;Lexical Analysis;Syntax Analysis;Code Generation;0
+Que8: What is a syntax tree?;A tree representing the syntactic structure of source code;A list of tokens;A table of variable names;A list of functions;0
+Que9: Which optimization technique reduces the number of instructions?;Instruction Scheduling;Loop Optimization;Dead Code Elimination;Constant Folding;2
+Que10: What does the code generation phase produce?;Machine code;Intermediate code;Source code;Assembly code;0
+Que11: What is a grammar in compiler design?;Set of production rules;Set of tokens;Set of syntax rules;Set of semantic rules;0
+Que12: What is an abstract syntax tree (AST)?;A representation of the abstract syntactic structure of code;A representation of machine code;A list of tokens;A list of syntax errors;0
+Que13: What is the role of the lexical analyzer?;Tokenize the input source code;Parse the source code;Generate intermediate code;Optimize the code;0
+Que14: What is a shift-reduce parser?;A type of bottom-up parser;A type of top-down parser;A type of intermediate code generator;A type of error detector;0
+Que15: What is a symbol table used for?;Store variable names and their attributes;Store tokens;Store syntax errors;Store intermediate code;0
+Que16: What is a context-free grammar?;A grammar where every production rule is of a specific form;A grammar with no restrictions;A grammar with only terminal symbols;A grammar with only non-terminal symbols;0
+Que17: What is the purpose of code optimization?;Improve performance;Increase code size;Make code more readable;Ensure correct syntax;0
+Que18: What is a recursive descent parser?;A type of top-down parser;A type of bottom-up parser;A type of error detector;A type of code generator;0
+Que19: What is a peephole optimization?;Local optimization technique;Global optimization technique;Syntax checking technique;Error detection technique;0
+Que20: What is the output of the linker?;Executable file;Object file;Source code;Intermediate code;0

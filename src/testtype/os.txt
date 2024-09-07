@@ -1,0 +1,20 @@
+Que1: What is the role of an operating system?;Manage hardware and software resources;Compile programs;Design user interfaces;Create graphics;0
+Que2: What is a process in an operating system?;A program in execution;A collection of data;A set of instructions;A user interface element;0
+Que3: What is the purpose of the process scheduler?;Manage process execution;Allocate memory;Handle I/O operations;Manage files;0
+Que4: What is a deadlock in an operating system?;A situation where processes are blocked indefinitely;A situation where memory is corrupted;A situation where a process is terminated;A situation where CPU usage is high;0
+Que5: What is virtual memory?;Memory management technique that extends physical memory;Type of storage device;Method of caching data;Type of processor;0
+Que6: What is a file system?;Organizes and manages files on a disk;Manages CPU scheduling;Handles network communication;Manages process execution;0
+Que7: What does the term "paging" refer to in memory management?;Dividing memory into fixed-size pages;Dividing memory into variable-size segments;Storing data in cache;Managing disk I/O;0
+Que8: What is a semaphore used for?;Synchronization between processes;File management;Memory allocation;Disk scheduling;0
+Que9: What is a kernel in an operating system?;The core part of the OS that manages hardware and system resources;A type of user interface;A program for managing files;A tool for managing network connections;0
+Que10: What is a context switch?;Switching the CPU from one process to another;Switching between different user interfaces;Switching between different files;Switching between different memory locations;0
+Que11: What is a system call?;An interface between user programs and the operating system;A call to a system function;A call to a hardware device;A type of network request;0
+Que12: What is multitasking?;Running multiple processes simultaneously;Running multiple programs in sequence;Running a single process multiple times;Running a single program on multiple devices;0
+Que13: What is the purpose of a page table?;Translate virtual addresses to physical addresses;Manage file permissions;Control process execution;Manage memory allocation;0
+Que14: What is a process control block (PCB)?;A data structure containing information about a process;A data structure containing file information;A data structure for managing memory;A data structure for managing I/O operations;0
+Que15: What is the difference between a process and a thread?;A thread is a smaller unit of a process;A process is a smaller unit of a thread;A thread is a separate process;A process and thread are the same;0
+Que16: What is file fragmentation?;The condition where files are split into pieces scattered across the disk;The condition where files are stored contiguously;The process of defragmenting the disk;The process of deleting old files;0
+Que17: What is a bootloader?;A program that initializes the operating system during startup;A program that manages file systems;A program that handles user inputs;A program that manages network connections;0
+Que18: What is a daemon in an operating system?;A background process that runs without user interaction;A process that handles user inputs;A process that manages file systems;A process that initializes the OS;0
+Que19: What is a file descriptor?;An identifier for an open file;An identifier for a process;An identifier for a memory location;An identifier for a system call;0
+Que20: What is the difference between primary memory and secondary memory?;Primary memory is volatile and faster;Secondary memory is volatile and faster;Primary memory is non-volatile;Secondary memory is non-volatile;0
